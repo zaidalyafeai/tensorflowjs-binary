@@ -24,6 +24,8 @@ This code is an editted version of https://github.com/tensorflow/tfjs-examples/t
 
 `cd tensorflowjs-binary`
 * Start the browser using 
+
+`yarn`
  
 `yarn watch`
 
@@ -34,7 +36,7 @@ This code is an editted version of https://github.com/tensorflow/tfjs-examples/t
 
 ## Case study 
 
-Here we train on recognizing my face when wearing glasses and without them. I captured around 250 images for the positive class(with glasses on) and around 250 images for the engative class (with glasses off)
+Here we train on recognizing my face when wearing glasses and without them. I captured around 250 images for the positive class(with glasses on) and around 220 images for the engative class (with glasses off)
 
 ### positive class 
 ![Alt text](screen-pos.png?raw=true "Title")
