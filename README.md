@@ -9,5 +9,6 @@ We use tensorflowjs to to train directly from the browser of the client. The ima
 * If you have a lower version then first purge the previous version 
 `sudo apt-get purge nodejs npm`
 * After that we install nodejs using 
+
 `curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -`
 `sudo apt-get install -y nodejs`
