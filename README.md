@@ -1,6 +1,7 @@
 # TensorFlow.js example to classify binary classes 
 
 We use tensorflowjs to to train directly from the browser of the client. The images are collected from the webcam of the client. 
+This code is an editted version of https://github.com/tensorflow/tfjs-examples/tree/master/webcam-transfer-learning
 
 ## Getting Started 
 
@@ -20,5 +21,8 @@ We use tensorflowjs to to train directly from the browser of the client. The ima
 `git clone https://github.com/zaidalyafeai/tensorflowjs-binary`
 * cd inside the directory 
 `cd tensorflowjs-binary`
-* Compile the code using 
-`yarn yarn watch`
+* Start the browser using  
+`yarn watch`
+
+
+
