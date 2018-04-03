@@ -29,7 +29,7 @@ This code is an editted version of https://github.com/tensorflow/tfjs-examples/t
 
 ## Interface 
 
-![Alt text] (images/screenshot.png?raw=true "Title")
+![Alt text](img.png?raw=true "Title")
 
 
 
