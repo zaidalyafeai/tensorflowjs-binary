@@ -32,4 +32,11 @@ This code is an editted version of https://github.com/tensorflow/tfjs-examples/t
 ![Alt text](img.png?raw=true "Title")
 
 
+## Case study 
 
+Here we train on recognizing my face when wearing glasses and without them. I captured around 250 images for the positive class(with glasses on) and around 250 images for the engative class (with glasses off)
+
+### positive class 
+![Alt text](screen-pos.png?raw=true "Title")
+### negative class 
+![Alt text](screen-neg.png?raw=true "Title")
