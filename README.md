@@ -29,7 +29,7 @@ This code is an editted version of https://github.com/tensorflow/tfjs-examples/t
 
 ## Interface 
 
-[[https://github.com/zaidalyafeai/tensorflowjs-binary/blob/master/images/screenshot.png]]
+![alt text] (https://github.com/zaidalyafeai/tensorflowjs-binary/blob/master/images/screenshot.png)
 
 
 
